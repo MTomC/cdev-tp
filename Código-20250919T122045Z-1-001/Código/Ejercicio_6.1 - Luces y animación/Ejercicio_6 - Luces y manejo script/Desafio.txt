@@ -1,0 +1,4 @@
+Desafío: 
+
+Cada 120 frames apagar la luz pointLight.visible = false si esta prendida o prenderla 
+si esta apagada, usar reloj de THREE.Clock();
